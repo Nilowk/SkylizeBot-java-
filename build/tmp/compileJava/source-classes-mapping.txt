@@ -1,0 +1,60 @@
+fr/nilowk/bot/utils/commands/CommandExecutor.java
+ fr.nilowk.bot.utils.commands.CommandExecutor
+fr/nilowk/bot/utils/commands/CommandRegistry.java
+ fr.nilowk.bot.utils.commands.CommandRegistry
+fr/nilowk/bot/commands/CommandGamem.java
+ fr.nilowk.bot.commands.CommandGamem
+fr/nilowk/bot/commands/CommandGamep.java
+ fr.nilowk.bot.commands.CommandGamep
+fr/nilowk/bot/commands/CommandCstats.java
+ fr.nilowk.bot.commands.CommandCstats
+fr/nilowk/bot/commands/CommandCconfig.java
+ fr.nilowk.bot.commands.CommandCconfig
+fr/nilowk/bot/commands/CommandGamep4.java
+ fr.nilowk.bot.commands.CommandGamep4
+fr/nilowk/bot/utils/commands/MessageManager.java
+ fr.nilowk.bot.utils.commands.MessageManager
+fr/nilowk/bot/commands/CommandPapier.java
+ fr.nilowk.bot.commands.CommandPapier
+fr/nilowk/bot/utils/MessageUtils.java
+ fr.nilowk.bot.utils.MessageUtils
+fr/nilowk/bot/commands/CommandCiseaux.java
+ fr.nilowk.bot.commands.CommandCiseaux
+fr/nilowk/bot/utils/ConfigManager.java
+ fr.nilowk.bot.utils.ConfigManager
+fr/nilowk/bot/commands/CommandClear.java
+ fr.nilowk.bot.commands.CommandClear
+fr/nilowk/bot/commands/CommandHelp.java
+ fr.nilowk.bot.commands.CommandHelp
+fr/nilowk/bot/commands/CommandGameClean.java
+ fr.nilowk.bot.commands.CommandGameClean
+fr/nilowk/bot/commands/CommandClose.java
+ fr.nilowk.bot.commands.CommandClose
+fr/nilowk/bot/commands/CommandRules.java
+ fr.nilowk.bot.commands.CommandRules
+fr/nilowk/bot/commands/CommandGameppc.java
+ fr.nilowk.bot.commands.CommandGameppc
+fr/nilowk/bot/utils/commands/Command.java
+ fr.nilowk.bot.utils.commands.Command
+fr/nilowk/bot/commands/CommandKick.java
+ fr.nilowk.bot.commands.CommandKick
+fr/nilowk/bot/commands/CommandBan.java
+ fr.nilowk.bot.commands.CommandBan
+fr/nilowk/bot/commands/CommandeGame.java
+ fr.nilowk.bot.commands.CommandeGame
+fr/nilowk/bot/commands/CommandOk.java
+ fr.nilowk.bot.commands.CommandOk
+fr/nilowk/bot/commands/CommandAnnonce.java
+ fr.nilowk.bot.commands.CommandAnnonce
+fr/nilowk/bot/commands/CommandNew.java
+ fr.nilowk.bot.commands.CommandNew
+fr/nilowk/bot/commands/CommandPierre.java
+ fr.nilowk.bot.commands.CommandPierre
+fr/nilowk/bot/commands/CommandRstats.java
+ fr.nilowk.bot.commands.CommandRstats
+fr/nilowk/bot/utils/utils/Statistique.java
+ fr.nilowk.bot.utils.utils.Statistique
+fr/nilowk/bot/Main.java
+ fr.nilowk.bot.Main
+fr/nilowk/bot/utils/utils/UtilsManager.java
+ fr.nilowk.bot.utils.utils.UtilsManager
